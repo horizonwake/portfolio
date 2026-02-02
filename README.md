@@ -37,19 +37,9 @@ npm run dev
 npm run build
 ```
 
-## Adding Images
-
-Place images in the `public/images` folder:
-- Profile photo: `public/images/profile.jpg`
-- Project images: `public/images/projects/project-name.jpg`
-
 ## Technologies Used
 
 - Vue 3
 - Vue Router
 - Vite
 - CSS Variables for theming
-
-## License
-
-MIT
