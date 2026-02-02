@@ -54,6 +54,7 @@ defineProps({
 .section-description {
   font-size: var(--font-size-lg);
   color: var(--color-text-secondary);
+  padding-bottom: var(--spacing-sm);
 }
 
 .projects-grid {
